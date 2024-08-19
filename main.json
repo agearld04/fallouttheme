@@ -39,7 +39,7 @@
     "custom_title_margin_left": "0px"
   },
   "imports": [
-    "https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css",
-    "https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css"
+    "https://agearld04.github.io/fallouttheme/mainRewrite.json",
+    "https://agearld04.github.io/fallouttheme/effects.json"
   ]
 }
