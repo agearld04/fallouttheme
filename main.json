@@ -1,0 +1,45 @@
+{
+  "name": "Fallout 4 Terminal",
+  "description": "A theme inspired by Fallout 4's terminals!",
+  "version": "3.0.0",
+  "authors": [
+    {
+      "name": "Bates",
+      "id": "137259132305539072"
+    }
+  ],
+  "source": "https://github.com/B4T3S/Fallout4TerminalTheme",
+  "website": "https://B4T3S.github.io/Fallout4TerminalTheme",
+  "donate": "https://www.paypal.com/paypalme/floriancegledi",
+  "patreon": "https://patreon.com/bates",
+  "invite": "6qd3SkP6Ch",
+  "theme_color_map": {
+    "HIGHLIGHT": "rgb(74, 239, 152)",
+    "BACKGROUND": "rgb(0, 9, 0)",
+    "TEXT": "rgb(74, 239, 152)",
+    "CLOSE_BUTTON": "rgb(212, 18, 39)",
+    "ONLINE_COLOR": "rgb(57, 255, 20)",
+    "AFK_COLOR": "rgb(255, 255, 51)",
+    "DND_COLOR": "rgb(255, 0, 0)",
+    "STREAMING_COLOR": "rgb(188, 19, 254)"
+  },
+  "theme_options": {
+    "transition_time": ".3s",
+    "background_image": "unset",
+    "background_position": "center",
+    "background_size": "cover",
+    "background_blur": "5px",
+    "background_brightness": "100%",
+    "show_original_title": false,
+    "show_custom_title": true,
+    "custom_title_text": "ROBCO Industries (tm)",
+    "custom_title_font_size": "16px",
+    "custom_title_font_weight": "bold",
+    "custom_title_margin_top": "0px",
+    "custom_title_margin_left": "0px"
+  },
+  "imports": [
+    "https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css",
+    "https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css"
+  ]
+}
